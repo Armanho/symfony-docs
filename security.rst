@@ -1,7 +1,7 @@
 .. index::
    single: Security
 
-Security
+Security-
 ========
 
 .. admonition:: Screencast
